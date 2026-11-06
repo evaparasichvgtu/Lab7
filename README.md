@@ -4,6 +4,7 @@
 Напишите программу, которая интерпретирует степени 2 в соответствующие приставки (10 – K, 20 – M, G, T, P, E).
 # Блок схема
 <img width="522" height="1062" alt="image" src="https://github.com/user-attachments/assets/eecc1659-f559-4143-900d-dbd66cfc24ab" />
+
 # Код
 
 ```c
