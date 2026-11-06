@@ -5,8 +5,14 @@
 # Блок схема
 <img width="522" height="1062" alt="image" src="https://github.com/user-attachments/assets/eecc1659-f559-4143-900d-dbd66cfc24ab" />
 # Код
+
 ```c
-int homework() {
+
+﻿#define _CRT_SECURE_NO_WARNINGS
+#include <stdio.h>
+#include <locale.h>
+#include <math.h>
+int main() {
     int st;
     printf("введите степень двойки (например: 10, 20, 30...)\n");
     scanf("%d", &st);
